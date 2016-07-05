@@ -1,0 +1,6 @@
+c:\users\казанков\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\казанков\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\казанков\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\MainWindow.g.cs
+c:\users\казанков\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\App.g.cs
+c:\users\казанков\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+c:\users\казанков\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake_MarkupCompile.lref
